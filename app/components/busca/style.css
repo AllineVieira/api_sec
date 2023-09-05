@@ -1,0 +1,41 @@
+.imagensBrinquedos {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 0px;
+    padding: 20px;
+}
+
+.imagensBrinquedos img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 15px;
+    margin-top: 50px;
+}
+
+.buscaTodos, .busca {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
+
+button {
+    background-color: #FF8EC4;
+    font-size: 30px;
+    color:#FFF;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: none;
+    border-radius: 20px;
+    padding: 25px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #eb2370;
+}
+
+li{
+    list-style: none;
+}

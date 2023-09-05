@@ -1,0 +1,19 @@
+.App-header{
+    display: flex;
+    font-size: 50px;
+    background-color: #FF8EC4;
+    align-items: center;
+    justify-content: center;
+    margin: 0px;
+    width: 100vw;
+  }
+  
+  .logotipo{
+    margin: 20px;
+    width: 50px;
+    height: auto;
+  }
+
+strong{
+  color:#FFF;
+}
