@@ -1,7 +1,0 @@
-export const GRANT_TYPE='password'
-export const URL_API='https://ec2-18-224-170-21.us-east-2.compute.amazonaws.com:8443/brinquedos'
-export const URL_TOKEN='https://ec2-18-224-170-21.us-east-2.compute.amazonaws.com:8443/auth/oauth/v2/token'
-export const USER='alline'
-export const PASSWORD='YPBh6wS&'
-export const CLIENT_ID='7f522efb-d91e-4c6d-88ba-d8d545a4d379'
-export const CLIENT_SECRET='80f65353-3565-4c5e-ab92-497376a3ba02'
